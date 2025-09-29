@@ -7,7 +7,6 @@ class Icestorm < Formula
   depends_on "gnu-sed" => :build
   depends_on "libftdi"
   depends_on "python"
-  depends_on "icestorm"
 
   def install
 
